@@ -1,0 +1,6 @@
+[submodule "phoenix_todo_app"]
+	path = phoenix_todo_app
+	url = git@github.com:manusajith/phoenix_todo_app.git
+[submodule "phoenix_todo_api"]
+	path = phoenix_todo_api
+	url = git@github.com:manusajith/phoenix_todo_api.git
