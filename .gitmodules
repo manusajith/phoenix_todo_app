@@ -4,3 +4,6 @@
 [submodule "phoenix_todo_api"]
 	path = phoenix_todo_api
 	url = git@github.com:manusajith/phoenix_todo_api.git
+[submodule "phoenix_todo_ember_client"]
+	path = phoenix_todo_ember_client
+	url = git@github.com:manusajith/phoenix_todo_ember_client.git
